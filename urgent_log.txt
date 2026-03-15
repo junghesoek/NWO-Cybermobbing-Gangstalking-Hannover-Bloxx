@@ -1,0 +1,50 @@
+[URGENT] 2026-03-14 23:22:47 - STARTING URGENT MR.BLOXX DOWNLOAD
+[URGENT] 2026-03-14 23:22:47 - DOWNLOADING CRITICAL SEARCH 1/7: "mr.bloxx" "PUSH IT H-TOWN"
+[URGENT] 2026-03-14 23:22:47 - EXECUTING DOWNLOAD FOR: "mr.bloxx" "PUSH IT H-TOWN"
+[URGENT] 2026-03-14 23:22:49 - ERROR: "mr.bloxx" "PUSH IT H-TOWN" - CODE: 2
+[URGENT] 2026-03-14 23:22:59 - DOWNLOADING CRITICAL SEARCH 2/7: "mr bloxx" "Hannover"
+[URGENT] 2026-03-14 23:22:59 - EXECUTING DOWNLOAD FOR: "mr bloxx" "Hannover"
+[URGENT] 2026-03-14 23:23:02 - ERROR: "mr bloxx" "Hannover" - CODE: 2
+[URGENT] 2026-03-14 23:23:12 - DOWNLOADING CRITICAL SEARCH 3/7: "thomas deike" "GRU"
+[URGENT] 2026-03-14 23:23:12 - EXECUTING DOWNLOAD FOR: "thomas deike" "GRU"
+[URGENT] 2026-03-14 23:23:14 - ERROR: "thomas deike" "GRU" - CODE: 2
+[URGENT] 2026-03-14 23:23:24 - DOWNLOADING CRITICAL SEARCH 4/7: "Mr.Bloxx" "Russian intelligence"
+[URGENT] 2026-03-14 23:23:24 - EXECUTING DOWNLOAD FOR: "Mr.Bloxx" "Russian intelligence"
+[URGENT] 2026-03-14 23:23:26 - ERROR: "Mr.Bloxx" "Russian intelligence" - CODE: 2
+[URGENT] 2026-03-14 23:23:36 - DOWNLOADING CRITICAL SEARCH 5/7: "bloxx" "military intelligence"
+[URGENT] 2026-03-14 23:23:36 - EXECUTING DOWNLOAD FOR: "bloxx" "military intelligence"
+[URGENT] 2026-03-14 23:23:38 - ERROR: "bloxx" "military intelligence" - CODE: 2
+[URGENT] 2026-03-14 23:23:48 - DOWNLOADING CRITICAL SEARCH 6/7: "mr.bloxx" "disney technology"
+[URGENT] 2026-03-14 23:23:48 - EXECUTING DOWNLOAD FOR: "mr.bloxx" "disney technology"
+[URGENT] 2026-03-14 23:23:49 - ERROR: "mr.bloxx" "disney technology" - CODE: 2
+[URGENT] 2026-03-14 23:23:59 - DOWNLOADING CRITICAL SEARCH 7/7: "thomas deike" "cyber terrorism"
+[URGENT] 2026-03-14 23:23:59 - EXECUTING DOWNLOAD FOR: "thomas deike" "cyber terrorism"
+[URGENT] 2026-03-14 23:24:00 - ERROR: "thomas deike" "cyber terrorism" - CODE: 2
+[URGENT] 2026-03-14 23:24:10 - STARTING DIRECT CHANNEL DOWNLOAD
+[URGENT] 2026-03-14 23:24:10 - EXECUTING FULL CHANNEL DOWNLOAD
+[URGENT] 2026-03-14 23:24:13 - VIDEO DOWNLOADED: 1 - [youtube:tab] @PUSHITHTOWN/videos: Downloading webpage
+[URGENT] 2026-03-14 23:24:13 - VIDEO DOWNLOADED: 2 - [download] Downloading playlist: PUSH IT H-TOWN - Videos
+[URGENT] 2026-03-14 23:24:14 - VIDEO DOWNLOADED: 3 - [youtube:tab] UCrxesQu54iF6zfGCL3k-x9Q page 1: Downloading API JSON
+[URGENT] 2026-03-14 23:24:15 - VIDEO DOWNLOADED: 4 - [youtube:tab] UCrxesQu54iF6zfGCL3k-x9Q page 2: Downloading API JSON
+[URGENT] 2026-03-14 23:24:16 - VIDEO DOWNLOADED: 5 - [youtube:tab] UCrxesQu54iF6zfGCL3k-x9Q page 3: Downloading API JSON
+[URGENT] 2026-03-14 23:24:17 - VIDEO DOWNLOADED: 6 - [youtube:tab] UCrxesQu54iF6zfGCL3k-x9Q page 4: Downloading API JSON
+[URGENT] 2026-03-14 23:24:17 - VIDEO DOWNLOADED: 7 - [youtube:tab] UCrxesQu54iF6zfGCL3k-x9Q page 5: Downloading API JSON
+[URGENT] 2026-03-14 23:24:18 - VIDEO DOWNLOADED: 8 - [youtube:tab] UCrxesQu54iF6zfGCL3k-x9Q page 6: Downloading API JSON
+[URGENT] 2026-03-14 23:24:19 - VIDEO DOWNLOADED: 9 - [youtube:tab] UCrxesQu54iF6zfGCL3k-x9Q page 7: Downloading API JSON
+[URGENT] 2026-03-14 23:24:20 - VIDEO DOWNLOADED: 10 - [info] Downloading playlist thumbnail avatar_uncropped ...
+[URGENT] 2026-03-14 23:24:20 - VIDEO DOWNLOADED: 11 - [youtube:tab] Playlist PUSH IT H-TOWN - Videos: Downloading 229 items of 229
+[URGENT] 2026-03-14 23:24:20 - VIDEO DOWNLOADED: 12 - [download] Downloading item 1 of 229
+[URGENT] 2026-03-14 23:24:20 - VIDEO DOWNLOADED: 13 - [youtube] vEa34cezUhs: Downloading webpage
+[URGENT] 2026-03-14 23:24:21 - VIDEO DOWNLOADED: 14 - [youtube] vEa34cezUhs: Downloading android vr player API JSON
+[URGENT] 2026-03-14 23:24:21 - VIDEO DOWNLOADED: 15 - [download] Downloading item 2 of 229
+[URGENT] 2026-03-14 23:24:21 - VIDEO DOWNLOADED: 16 - [youtube] PKdwUIbjz0Q: Downloading webpage
+[URGENT] 2026-03-14 23:24:22 - VIDEO DOWNLOADED: 17 - [youtube] PKdwUIbjz0Q: Downloading android vr player API JSON
+[URGENT] 2026-03-14 23:24:22 - VIDEO DOWNLOADED: 18 - [download] Downloading item 3 of 229
+[URGENT] 2026-03-14 23:24:22 - VIDEO DOWNLOADED: 19 - [youtube] UNU1g4u8X8k: Downloading webpage
+[URGENT] 2026-03-14 23:24:23 - VIDEO DOWNLOADED: 20 - [youtube] UNU1g4u8X8k: Downloading android vr player API JSON
+[URGENT] 2026-03-14 23:24:24 - VIDEO DOWNLOADED: 21 - [download] Downloading item 4 of 229
+[URGENT] 2026-03-14 23:24:24 - VIDEO DOWNLOADED: 22 - [youtube] mmA8as8pDjs: Downloading webpage
+[URGENT] 2026-03-14 23:24:25 - VIDEO DOWNLOADED: 23 - [youtube] mmA8as8pDjs: Downloading android vr player API JSON
+[URGENT] 2026-03-14 23:24:25 - VIDEO DOWNLOADED: 24 - [download] Downloading item 5 of 229
+[URGENT] 2026-03-14 23:24:25 - VIDEO DOWNLOADED: 25 - [youtube] C7rO2EFEhd8: Downloading webpage
+[URGENT] 2026-03-14 23:24:26 - VIDEO DOWNLOADED: 26 - [youtube] C7rO2EFEhd8: Downloading android vr player API JSON

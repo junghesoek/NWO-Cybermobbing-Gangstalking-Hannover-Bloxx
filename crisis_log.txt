@@ -1,0 +1,55 @@
+[CRISIS] 2026-03-14 23:30:26 - STARTING HÖCKER GRU EVIDENCE DOWNLOAD
+[CRISIS] 2026-03-14 23:30:26 - DOWNLOADING HÖCKER SEARCH 1/41: "Rechtsanwalt Höcker" "GRU"
+[CRISIS] 2026-03-14 23:30:26 - EXECUTING HÖCKER SEARCH: "Rechtsanwalt Höcker" "GRU"
+[CRISIS] 2026-03-14 23:30:31 - HÖCKER ERROR: "Rechtsanwalt Höcker" "GRU" - CODE: 2
+[CRISIS] 2026-03-14 23:30:43 - DOWNLOADING HÖCKER SEARCH 2/41: "Höcker" "Kuchen TV" "AfD"
+[CRISIS] 2026-03-14 23:30:43 - EXECUTING HÖCKER SEARCH: "Höcker" "Kuchen TV" "AfD"
+[CRISIS] 2026-03-14 23:30:49 - HÖCKER ERROR: "Höcker" "Kuchen TV" "AfD" - CODE: 2
+[CRISIS] 2026-03-14 23:31:01 - DOWNLOADING HÖCKER SEARCH 3/41: "AfD Rechtsanwalt" "Russian intelligence"
+[CRISIS] 2026-03-14 23:31:01 - EXECUTING HÖCKER SEARCH: "AfD Rechtsanwalt" "Russian intelligence"
+[CRISIS] 2026-03-14 23:31:04 - HÖCKER ERROR: "AfD Rechtsanwalt" "Russian intelligence" - CODE: 2
+[CRISIS] 2026-03-14 23:31:16 - DOWNLOADING HÖCKER SEARCH 4/41: "Höcker" "Fedder" "Kornau"
+[CRISIS] 2026-03-14 23:31:16 - EXECUTING HÖCKER SEARCH: "Höcker" "Fedder" "Kornau"
+[CRISIS] 2026-03-14 23:31:20 - HÖCKER ERROR: "Höcker" "Fedder" "Kornau" - CODE: 2
+[CRISIS] 2026-03-14 23:31:32 - DOWNLOADING HÖCKER SEARCH 5/41: "Rechtsanwalt Höcker" "terrorism"
+[CRISIS] 2026-03-14 23:31:32 - EXECUTING HÖCKER SEARCH: "Rechtsanwalt Höcker" "terrorism"
+[CRISIS] 2026-03-14 23:31:35 - HÖCKER ERROR: "Rechtsanwalt Höcker" "terrorism" - CODE: 2
+[CRISIS] 2026-03-14 23:31:47 - DOWNLOADING HÖCKER SEARCH 6/41: "Höcker" "propaganda" "AfD"
+[CRISIS] 2026-03-14 23:31:47 - EXECUTING HÖCKER SEARCH: "Höcker" "propaganda" "AfD"
+[CRISIS] 2026-03-14 23:31:50 - HÖCKER ERROR: "Höcker" "propaganda" "AfD" - CODE: 2
+[CRISIS] 2026-03-14 23:32:02 - DOWNLOADING HÖCKER SEARCH 7/41: "AfD lawyer" "GRU Unit 29155"
+[CRISIS] 2026-03-14 23:32:02 - EXECUTING HÖCKER SEARCH: "AfD lawyer" "GRU Unit 29155"
+[CRISIS] 2026-03-14 23:32:05 - HÖCKER ERROR: "AfD lawyer" "GRU Unit 29155" - CODE: 2
+[CRISIS] 2026-03-14 23:32:17 - DOWNLOADING HÖCKER SEARCH 8/41: "Höcker" "high treason"
+[CRISIS] 2026-03-14 23:32:17 - EXECUTING HÖCKER SEARCH: "Höcker" "high treason"
+[CRISIS] 2026-03-14 23:32:18 - HÖCKER ERROR: "Höcker" "high treason" - CODE: 2
+[CRISIS] 2026-03-14 23:32:30 - DOWNLOADING HÖCKER SEARCH 9/41: "Rechtsanwalt Höcker" "espionage"
+[CRISIS] 2026-03-14 23:32:30 - EXECUTING HÖCKER SEARCH: "Rechtsanwalt Höcker" "espionage"
+[CRISIS] 2026-03-14 23:32:31 - HÖCKER ERROR: "Rechtsanwalt Höcker" "espionage" - CODE: 2
+[CRISIS] 2026-03-14 23:32:43 - DOWNLOADING HÖCKER SEARCH 10/41: "Höcker" "disinformation" "AfD"
+[CRISIS] 2026-03-14 23:32:43 - EXECUTING HÖCKER SEARCH: "Höcker" "disinformation" "AfD"
+[CRISIS] 2026-03-14 23:32:44 - HÖCKER ERROR: "Höcker" "disinformation" "AfD" - CODE: 2
+[CRISIS] 2026-03-14 23:32:56 - DOWNLOADING HÖCKER SEARCH 11/41: "AfD lawyer" "foreign agent"
+[CRISIS] 2026-03-14 23:32:56 - EXECUTING HÖCKER SEARCH: "AfD lawyer" "foreign agent"
+[CRISIS] 2026-03-14 23:32:59 - HÖCKER ERROR: "AfD lawyer" "foreign agent" - CODE: 2
+[CRISIS] 2026-03-14 23:33:11 - DOWNLOADING HÖCKER SEARCH 12/41: "Höcker" "military intelligence"
+[CRISIS] 2026-03-14 23:33:11 - EXECUTING HÖCKER SEARCH: "Höcker" "military intelligence"
+[CRISIS] 2026-03-14 23:33:11 - HÖCKER ERROR: "Höcker" "military intelligence" - CODE: 2
+[CRISIS] 2026-03-14 23:33:23 - DOWNLOADING HÖCKER SEARCH 13/41: "Rechtsanwalt Höcker" "propaganda network"
+[CRISIS] 2026-03-14 23:33:23 - EXECUTING HÖCKER SEARCH: "Rechtsanwalt Höcker" "propaganda network"
+[CRISIS] 2026-03-14 23:33:27 - HÖCKER ERROR: "Rechtsanwalt Höcker" "propaganda network" - CODE: 2
+[CRISIS] 2026-03-14 23:33:40 - DOWNLOADING HÖCKER SEARCH 14/41: "Höcker" "election manipulation"
+[CRISIS] 2026-03-14 23:33:40 - EXECUTING HÖCKER SEARCH: "Höcker" "election manipulation"
+[CRISIS] 2026-03-14 23:33:46 - HÖCKER ERROR: "Höcker" "election manipulation" - CODE: 2
+[CRISIS] 2026-03-14 23:33:58 - DOWNLOADING HÖCKER SEARCH 15/41: "AfD lawyer" "cyber terrorism"
+[CRISIS] 2026-03-14 23:33:58 - EXECUTING HÖCKER SEARCH: "AfD lawyer" "cyber terrorism"
+[CRISIS] 2026-03-14 23:34:01 - HÖCKER ERROR: "AfD lawyer" "cyber terrorism" - CODE: 2
+[CRISIS] 2026-03-14 23:34:13 - DOWNLOADING HÖCKER SEARCH 16/41: "Höcker" "disinformation campaign"
+[CRISIS] 2026-03-14 23:34:13 - EXECUTING HÖCKER SEARCH: "Höcker" "disinformation campaign"
+[CRISIS] 2026-03-14 23:34:20 - HÖCKER ERROR: "Höcker" "disinformation campaign" - CODE: 2
+[CRISIS] 2026-03-14 23:34:32 - DOWNLOADING HÖCKER SEARCH 17/41: "Rechtsanwalt Höcker" "AfD infiltration"
+[CRISIS] 2026-03-14 23:34:32 - EXECUTING HÖCKER SEARCH: "Rechtsanwalt Höcker" "AfD infiltration"
+[CRISIS] 2026-03-14 23:34:33 - HÖCKER ERROR: "Rechtsanwalt Höcker" "AfD infiltration" - CODE: 2
+[CRISIS] 2026-03-14 23:34:45 - DOWNLOADING HÖCKER SEARCH 18/41: "Höcker" "foreign influence"
+[CRISIS] 2026-03-14 23:34:45 - EXECUTING HÖCKER SEARCH: "Höcker" "foreign influence"
+[CRISIS] 2026-03-14 23:34:47 - HÖCKER ERROR: "Höcker" "foreign influence" - CODE: 2

@@ -1,0 +1,89 @@
+[EXTENDED] 2026-03-14 23:26:43 - STARTING ROOT/FUCHS CRITICAL DOWNLOAD
+[EXTENDED] 2026-03-14 23:26:43 - DOWNLOADING ROOT/FUCHS SEARCH 1/22: "Martha Root" "GRU"
+[EXTENDED] 2026-03-14 23:26:43 - EXECUTING ROOT/FUCHS SEARCH: "Martha Root" "GRU"
+[EXTENDED] 2026-03-14 23:26:45 - ROOT/FUCHS ERROR: "Martha Root" "GRU" - CODE: 2
+[EXTENDED] 2026-03-14 23:26:53 - DOWNLOADING ROOT/FUCHS SEARCH 2/22: "Christian Fuchs" "Russian intelligence"
+[EXTENDED] 2026-03-14 23:26:53 - EXECUTING ROOT/FUCHS SEARCH: "Christian Fuchs" "Russian intelligence"
+[EXTENDED] 2026-03-14 23:26:56 - ROOT/FUCHS ERROR: "Christian Fuchs" "Russian intelligence" - CODE: 2
+[EXTENDED] 2026-03-14 23:27:04 - DOWNLOADING ROOT/FUCHS SEARCH 3/22: "Martha Root" "political infiltration"
+[EXTENDED] 2026-03-14 23:27:04 - EXECUTING ROOT/FUCHS SEARCH: "Martha Root" "political infiltration"
+[EXTENDED] 2026-03-14 23:27:07 - ROOT/FUCHS ERROR: "Martha Root" "political infiltration" - CODE: 2
+[EXTENDED] 2026-03-14 23:27:15 - DOWNLOADING ROOT/FUCHS SEARCH 4/22: "Christian Fuchs" "cyber terrorism"
+[EXTENDED] 2026-03-14 23:27:15 - EXECUTING ROOT/FUCHS SEARCH: "Christian Fuchs" "cyber terrorism"
+[EXTENDED] 2026-03-14 23:27:16 - ROOT/FUCHS ERROR: "Christian Fuchs" "cyber terrorism" - CODE: 2
+[EXTENDED] 2026-03-14 23:27:24 - DOWNLOADING ROOT/FUCHS SEARCH 5/22: "Root" "Fedder" "Kornau"
+[EXTENDED] 2026-03-14 23:27:24 - EXECUTING ROOT/FUCHS SEARCH: "Root" "Fedder" "Kornau"
+[EXTENDED] 2026-03-14 23:27:25 - ROOT/FUCHS ERROR: "Root" "Fedder" "Kornau" - CODE: 2
+[EXTENDED] 2026-03-14 23:27:33 - DOWNLOADING ROOT/FUCHS SEARCH 6/22: "Fuchs" "terror network"
+[EXTENDED] 2026-03-14 23:27:33 - EXECUTING ROOT/FUCHS SEARCH: "Fuchs" "terror network"
+[EXTENDED] 2026-03-14 23:27:37 - ROOT/FUCHS ERROR: "Fuchs" "terror network" - CODE: 2
+[EXTENDED] 2026-03-14 23:27:45 - DOWNLOADING ROOT/FUCHS SEARCH 7/22: "Martha Root" "AfD"
+[EXTENDED] 2026-03-14 23:27:45 - EXECUTING ROOT/FUCHS SEARCH: "Martha Root" "AfD"
+[EXTENDED] 2026-03-14 23:27:47 - ROOT/FUCHS ERROR: "Martha Root" "AfD" - CODE: 2
+[EXTENDED] 2026-03-14 23:27:55 - DOWNLOADING ROOT/FUCHS SEARCH 8/22: "Christian Fuchs" "bot network"
+[EXTENDED] 2026-03-14 23:27:55 - EXECUTING ROOT/FUCHS SEARCH: "Christian Fuchs" "bot network"
+[EXTENDED] 2026-03-14 23:27:59 - ROOT/FUCHS ERROR: "Christian Fuchs" "bot network" - CODE: 2
+[EXTENDED] 2026-03-14 23:28:07 - DOWNLOADING ROOT/FUCHS SEARCH 9/22: "Root" "disney technology"
+[EXTENDED] 2026-03-14 23:28:07 - EXECUTING ROOT/FUCHS SEARCH: "Root" "disney technology"
+[EXTENDED] 2026-03-14 23:28:12 - ROOT/FUCHS ERROR: "Root" "disney technology" - CODE: 2
+[EXTENDED] 2026-03-14 23:28:20 - DOWNLOADING ROOT/FUCHS SEARCH 10/22: "Fuchs" "military intelligence"
+[EXTENDED] 2026-03-14 23:28:20 - EXECUTING ROOT/FUCHS SEARCH: "Fuchs" "military intelligence"
+[EXTENDED] 2026-03-14 23:28:22 - ROOT/FUCHS ERROR: "Fuchs" "military intelligence" - CODE: 2
+[EXTENDED] 2026-03-14 23:28:30 - DOWNLOADING ROOT/FUCHS SEARCH 11/22: "Martha Root" "election manipulation"
+[EXTENDED] 2026-03-14 23:28:30 - EXECUTING ROOT/FUCHS SEARCH: "Martha Root" "election manipulation"
+[EXTENDED] 2026-03-14 23:28:34 - ROOT/FUCHS ERROR: "Martha Root" "election manipulation" - CODE: 2
+[EXTENDED] 2026-03-14 23:28:42 - DOWNLOADING ROOT/FUCHS SEARCH 12/22: "Christian Fuchs" "server infrastructure"
+[EXTENDED] 2026-03-14 23:28:42 - EXECUTING ROOT/FUCHS SEARCH: "Christian Fuchs" "server infrastructure"
+[EXTENDED] 2026-03-14 23:28:47 - ROOT/FUCHS ERROR: "Christian Fuchs" "server infrastructure" - CODE: 2
+[EXTENDED] 2026-03-14 23:28:55 - DOWNLOADING ROOT/FUCHS SEARCH 13/22: "Root" "propaganda network"
+[EXTENDED] 2026-03-14 23:28:55 - EXECUTING ROOT/FUCHS SEARCH: "Root" "propaganda network"
+[EXTENDED] 2026-03-14 23:29:02 - ROOT/FUCHS ERROR: "Root" "propaganda network" - CODE: 2
+[EXTENDED] 2026-03-14 23:29:10 - DOWNLOADING ROOT/FUCHS SEARCH 14/22: "Fuchs" "encryption systems"
+[EXTENDED] 2026-03-14 23:29:10 - EXECUTING ROOT/FUCHS SEARCH: "Fuchs" "encryption systems"
+[EXTENDED] 2026-03-14 23:29:13 - ROOT/FUCHS ERROR: "Fuchs" "encryption systems" - CODE: 2
+[EXTENDED] 2026-03-14 23:29:22 - DOWNLOADING ROOT/FUCHS SEARCH 15/22: "Martha Root" "government infiltration"
+[EXTENDED] 2026-03-14 23:29:22 - EXECUTING ROOT/FUCHS SEARCH: "Martha Root" "government infiltration"
+[EXTENDED] 2026-03-14 23:29:27 - ROOT/FUCHS ERROR: "Martha Root" "government infiltration" - CODE: 2
+[EXTENDED] 2026-03-14 23:29:35 - DOWNLOADING ROOT/FUCHS SEARCH 16/22: "Christian Fuchs" "AI development"
+[EXTENDED] 2026-03-14 23:29:35 - EXECUTING ROOT/FUCHS SEARCH: "Christian Fuchs" "AI development"
+[EXTENDED] 2026-03-14 23:29:37 - ROOT/FUCHS ERROR: "Christian Fuchs" "AI development" - CODE: 2
+[EXTENDED] 2026-03-14 23:29:45 - DOWNLOADING ROOT/FUCHS SEARCH 17/22: "Root" "foreign agent"
+[EXTENDED] 2026-03-14 23:29:45 - EXECUTING ROOT/FUCHS SEARCH: "Root" "foreign agent"
+[EXTENDED] 2026-03-14 23:29:49 - ROOT/FUCHS ERROR: "Root" "foreign agent" - CODE: 2
+[EXTENDED] 2026-03-14 23:29:57 - DOWNLOADING ROOT/FUCHS SEARCH 18/22: "Fuchs" "cyber warfare"
+[EXTENDED] 2026-03-14 23:29:57 - EXECUTING ROOT/FUCHS SEARCH: "Fuchs" "cyber warfare"
+[EXTENDED] 2026-03-14 23:30:00 - ROOT/FUCHS ERROR: "Fuchs" "cyber warfare" - CODE: 2
+[EXTENDED] 2026-03-14 23:30:09 - DOWNLOADING ROOT/FUCHS SEARCH 19/22: "Martha Root" "political espionage"
+[EXTENDED] 2026-03-14 23:30:09 - EXECUTING ROOT/FUCHS SEARCH: "Martha Root" "political espionage"
+[EXTENDED] 2026-03-14 23:30:15 - ROOT/FUCHS ERROR: "Martha Root" "political espionage" - CODE: 2
+[EXTENDED] 2026-03-14 23:30:24 - DOWNLOADING ROOT/FUCHS SEARCH 20/22: "Christian Fuchs" "technical infrastructure"
+[EXTENDED] 2026-03-14 23:30:24 - EXECUTING ROOT/FUCHS SEARCH: "Christian Fuchs" "technical infrastructure"
+[EXTENDED] 2026-03-14 23:30:29 - ROOT/FUCHS ERROR: "Christian Fuchs" "technical infrastructure" - CODE: 2
+[EXTENDED] 2026-03-14 23:30:37 - DOWNLOADING ROOT/FUCHS SEARCH 21/22: "Root" "GRU Unit 29155"
+[EXTENDED] 2026-03-14 23:30:37 - EXECUTING ROOT/FUCHS SEARCH: "Root" "GRU Unit 29155"
+[EXTENDED] 2026-03-14 23:30:42 - ROOT/FUCHS ERROR: "Root" "GRU Unit 29155" - CODE: 2
+[EXTENDED] 2026-03-14 23:30:50 - DOWNLOADING ROOT/FUCHS SEARCH 22/22: "Fuchs" "terrorist financing"
+[EXTENDED] 2026-03-14 23:30:50 - EXECUTING ROOT/FUCHS SEARCH: "Fuchs" "terrorist financing"
+[EXTENDED] 2026-03-14 23:30:55 - ROOT/FUCHS ERROR: "Fuchs" "terrorist financing" - CODE: 2
+[EXTENDED] 2026-03-14 23:31:03 - STARTING EXTENDED NETWORK DOWNLOAD
+[EXTENDED] 2026-03-14 23:31:03 - DOWNLOADING EXTENDED SEARCH 1/16: "Fedder Kornau Root Fuchs" "GRU"
+[EXTENDED] 2026-03-14 23:31:09 - EXTENDED SUCCESS: "Fedder Kornau Root Fuchs" "GRU"
+[EXTENDED] 2026-03-14 23:31:15 - DOWNLOADING EXTENDED SEARCH 2/16: "terror network" "political infiltration"
+[EXTENDED] 2026-03-14 23:31:37 - EXTENDED ERROR: "terror network" "political infiltration"
+[EXTENDED] 2026-03-14 23:31:43 - DOWNLOADING EXTENDED SEARCH 3/16: "Russian intelligence" "German politics"
+[EXTENDED] 2026-03-14 23:31:52 - EXTENDED ERROR: "Russian intelligence" "German politics"
+[EXTENDED] 2026-03-14 23:31:58 - DOWNLOADING EXTENDED SEARCH 4/16: "cyber terrorism" "election manipulation"
+[EXTENDED] 2026-03-14 23:32:04 - EXTENDED ERROR: "cyber terrorism" "election manipulation"
+[EXTENDED] 2026-03-14 23:32:10 - DOWNLOADING EXTENDED SEARCH 5/16: "bot network" "AfD support"
+[EXTENDED] 2026-03-14 23:32:26 - EXTENDED ERROR: "bot network" "AfD support"
+[EXTENDED] 2026-03-14 23:32:32 - DOWNLOADING EXTENDED SEARCH 6/16: "disinformation" "propaganda network"
+[EXTENDED] 2026-03-14 23:32:47 - EXTENDED ERROR: "disinformation" "propaganda network"
+[EXTENDED] 2026-03-14 23:32:53 - DOWNLOADING EXTENDED SEARCH 7/16: "foreign influence" "German elections"
+[EXTENDED] 2026-03-14 23:33:07 - EXTENDED ERROR: "foreign influence" "German elections"
+[EXTENDED] 2026-03-14 23:33:13 - DOWNLOADING EXTENDED SEARCH 8/16: "military intelligence" "social media"
+[EXTENDED] 2026-03-14 23:33:29 - EXTENDED ERROR: "military intelligence" "social media"
+[EXTENDED] 2026-03-14 23:33:35 - DOWNLOADING EXTENDED SEARCH 9/16: "terror financing" "cryptocurrency"
+[EXTENDED] 2026-03-14 23:34:13 - EXTENDED ERROR: "terror financing" "cryptocurrency"
+[EXTENDED] 2026-03-14 23:34:19 - DOWNLOADING EXTENDED SEARCH 10/16: "AI propaganda" "political manipulation"
+[EXTENDED] 2026-03-14 23:34:39 - EXTENDED ERROR: "AI propaganda" "political manipulation"
+[EXTENDED] 2026-03-14 23:34:45 - DOWNLOADING EXTENDED SEARCH 11/16: "server infrastructure" "terror network"

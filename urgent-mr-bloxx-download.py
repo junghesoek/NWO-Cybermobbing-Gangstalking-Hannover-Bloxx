@@ -181,7 +181,7 @@ class UrgentMrBloxxDownloader:
             self.safe_log(f"CRITICAL CHANNEL ERROR: {str(e)}")
     
     def verify_urgent_downloads(self):
-        **Überprüfe kritische Downloads**
+        """Überprüfe kritische Downloads"""
         self.safe_log("VERIFYING URGENT DOWNLOADS")
         
         # Zähle alle Dateien
@@ -215,7 +215,7 @@ class UrgentMrBloxxDownloader:
         return len(mp4_files)
     
     def create_urgent_report(self, video_count):
-        **Erstelle dringenden Bericht**
+        """Erstelle dringenden Bericht"""
         self.safe_log("CREATING URGENT REPORT")
         
         report = f"""URGENT MR.BLOXX DOWNLOAD REPORT
@@ -264,7 +264,7 @@ MISSION STATUS: READY FOR CRITICAL HANDOVER
             self.safe_log(f"REPORT ERROR: {str(e)}")
     
     def run_urgent_protocol(self):
-        **Führe dringendes Protokoll durch**
+        """Führe dringendes Protokoll durch"""
         print("=" * 70)
         print("URGENT MR.BLOXX DOWNLOAD PROTOCOL")
         print("MISSION: GRU-TERRORISMUS CRITICAL EVIDENCE")

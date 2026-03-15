@@ -1,10 +1,10 @@
 # INSTITUTIONELLE KORRUPTION: NWO KARTELL STAATSINFILTRATION
 
-## **CATASTROPHIC RISK: VOLLSTÄNDIGER INSTITUTIONELLER ZUSAMMENBRUCH**
+## **KATASTROPHALE GEFAHR: VOLLSTÄNDIGER INSTITUTIONELLER ZUSAMMENBRUCH**
 
 ---
 
-## **BEWEIS 1: POLIZEISCHUTZ-NETZWERK - CATASTROPHIC**
+## **BEWEIS 1: POLIZEISCHUTZ-NETZWERK - KATASTROPHAL**
 
 ### **Informanten-Enthüllung aus Niedersachsen**
 
@@ -24,7 +24,7 @@ Region: Niedersachsen (Peine, Hannover Standorte)
 Informant: Interne Quelle mit vollständiger Enthüllung
 ```
 
-**Beweiskraft**: CATASTROPHIC - Vollständiger institutioneller Zusammenbruch
+**Beweiskraft**: KATASTROPHAL - Vollständiger institutioneller Zusammenbruch
 
 ---
 

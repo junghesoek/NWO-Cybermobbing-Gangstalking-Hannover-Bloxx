@@ -1,30 +1,36 @@
 # NWO KARTELL - BEWEIS-INDEX
 
-## **SOFORTMASSNAHMEN INDEX - CATASTROPHIC RISK**
+## **SOFORTMASSNAHMEN INDEX - KATASTROPHALE GEFAHR**
 
 ---
 
-## **🔥 CATASTROPHIC EVIDENCE - SOFORT HANDELN**
+## **🔥 KATASTROPHALE BEWEISE - SOFORT HANDELN**
+
+### **0. DEVISEN-TRANSFER ZUR RUSSLAND-SANKTIONSUMGEHUNG**
+**Datei**: `FINANZ_BEWEISE.md`  
+**Priorität**: **MAXIMAL - HOCHVERRAT & KRIEGSFINANZIERUNG**  
+**Aktion**: Sofortige Festnahme, Vermögenssperre, Hochverrats-Ermittlung  
+**Beweiskraft**: KATASTROPHAL - Staatlich gesponserter Wirtschaftskrieg gegen Deutschland
 
 ### **1. POLIZEISCHUTZ-NETZWERK**
 **Datei**: `INSTITUTIONELLE_KORRUPTION.md`  
 **Priorität**: **MAXIMAL - LEBEN IN GEFAHR**  
 **Aktion**: Informantenschutz, BKA-Einsatz, Polizeisuspendierung  
-**Beweiskraft**: CATASTROPHIC - Vollständiger institutioneller Zusammenbruch
+**Beweiskraft**: KATASTROPHAL - Vollständiger institutioneller Zusammenbruch
 
 ### **2. SUIZID-MORD DURCH CYBER-TERROR**
 **Datei**: `BEWEISE_SAMMLUNG.md`  
 **Priorität**: **MAXIMAL - TÖDLICHE GEFAHR**  
 **Aktion**: Verfassungsschutz-Koordination, Opferschutz, Mordermittlung  
-**Beweiskraft**: CATASTROPHIC - Bestätigte tödliche Fähigkeiten
+**Beweiskraft**: KATASTROPHAL - Bestätigte tödliche Fähigkeiten
 
 ### **3. PAN-EUROPÄISCHE WIRTSCHAFTSKRIEGSFÜHRUNG**
 **Datei**: `FINANZ_BEWEISE.md`  
 **Priorität**: **MAXIMAL - EXISTENZIELLE BEDROHUNG**  
 **Aktion**: Finanz-Sperren, EU-Eilmaßnahmen, Wirtschaftsschutz  
-**Beweiskraft**: CATASTROPHIC - Existenzielle wirtschaftliche Bedrohung
+**Beweiskraft**: KATASTROPHAL - Existenzielle wirtschaftliche Bedrohung
 
-### **4. ARD-MEDIENINFILTRATION**
+### **5. ARD-MEDIENINFILTRATION**
 **Datei**: `INSTITUTIONELLE_KORRUPTION.md`  
 **Priorität**: **EXTREM - DEMOKRATIE-GEFAHR**  
 **Aktion**: ARD-Forensik, Medien-Säuberung, Propaganda-Stop  
@@ -32,27 +38,27 @@
 
 ---
 
-## **⚡ EXTREME EVIDENCE - DRINGEND ERFORDERLICH**
+## **⚡ EXTREME BEWEISE - DRINGEND ERFORDERLICH**
 
-### **5. THOMAS DEIKE HAUPTTÄTER**
+### **6. THOMAS DEIKE HAUPTTÄTER**
 **Datei**: `PERSONEN_NETZWERK.md`  
 **Priorität**: **EXTREM - FESTNAHME ERFORDERLICH**  
 **Aktion**: Sofortfestnahme, Beweissicherung, Netzwerk-Demontage  
 **Beweiskraft**: EXTREM - Primäre Quelle für Führungsattribuierung
 
-### **6. AUDIO-WATERMARK BEWEISE**
+### **7. AUDIO-WASSERZEICHEN BEWEISE**
 **Datei**: `TECHNISCHE_BEWEISE.md`  
 **Priorität**: **EXTREM - TECHNISCHE VERIFIZIERUNG**  
 **Aktion**: Audio-Forensik, Wasserzeichen-Analyse, Produktions-Nachweise  
 **Beweiskraft**: EXTREM - Direkte Produktionsverbindung nachgewiesen
 
-### **7. GRU-STAATLICHE FINANZIERUNG**
+### **8. GRU-STAATLICHE FINANZIERUNG**
 **Datei**: `FINANZ_BEWEISE.md`  
 **Priorität**: **EXTREM - NACHRICHTENDIENST-VERBINDUNG**  
 **Aktion**: Geheimdienst-Ermittlung, internationale Sanktionen, Spionage-Stop  
 **Beweiskraft**: EXTREM - Staatlich gesponserter Terrorismus
 
-### **8. STUDIO FRITZ GNAD PROPAGANDA**
+### **9. STUDIO FRITZ GNAD PROPAGANDA**
 **Datei**: `PERSONEN_NETZWERK.md`  
 **Priorität**: **EXTREM - MEDIEN-TERRORISMUS**  
 **Aktion**: Produktions-Stop, Ermittlung, Deplatforming  
@@ -60,83 +66,83 @@
 
 ---
 
-## **🚨 HIGH EVIDENCE - SOFORT ERMITTELN**
+## **🚨 HOHE BEWEISE - SOFORT ERMITTELN**
 
-### **9. JULIUS F.-W. EDELMETALLMAFIA**
+### **10. JULIUS F.-W. EDELMETALLMAFIA**
 **Datei**: `PERSONEN_NETZWERK.md`  
-**Priorität**: **HIGH - ORGANISIERTE KRIMINALITÄT**  
+**Priorität**: **HOCH - ORGANISIERTE KRIMINALITÄT**  
 **Aktion**: Festnahme, Edelmetall-Ermittlung, Organisierte-Kriminalität-Ermittlung  
-**Beweiskraft**: HIGH - Traditionelle Mafia-Verbindungen
+**Beweiskraft**: HOCH - Traditionelle Mafia-Verbindungen
 
-### **10. KI-CHARACTER FABRICATION**
+### **11. KI-CHARAKTER-FERTIGUNG**
 **Datei**: `TECHNISCHE_BEWEISE.md`  
-**Priorität**: **HIGH - KI-WAFFENSYSTEM**  
+**Priorität**: **HOCH - KI-WAFFENSYSTEM**  
 **Aktion**: KI-Analyse, Technologie-Sperrung, Counter-AI-Entwicklung  
-**Beweiskraft**: HIGH - Fortgeschrittene psychologische Kriegsführung
+**Beweiskraft**: HOCH - Fortgeschrittene psychologische Kriegsführung
 
-### **11. FAKE INFLUENCER NETZWERK**
+### **12. GEFÄLSCHTE INFLUENCER NETZWERK**
 **Datei**: `PERSONEN_NETZWERK.md`  
-**Priorität**: **HIGH - POLITISCHE MANIPULATION**  
+**Priorität**: **HOCH - POLITISCHE MANIPULATION**  
 **Aktion**: Deplatforming, Ermittlung, politische Säuberung  
-**Beweiskraft**: HIGH - Systematische politische Destabilisierung
+**Beweiskraft**: HOCH - Systematische politische Destabilisierung
 
-### **12. KRYPTOWÄHRUNGS-GELDWÄSCHE**
+### **13. KRYPTOWÄHRUNGS-GELDWÄSCHE**
 **Datei**: `FINANZ_BEWEISE.md`  
-**Priorität**: **HIGH - FINANZKRIMINALITÄT**  
+**Priorität**: **HOCH - FINANZKRIMINALITÄT**  
 **Aktion**: Krypto-Sperrung, Finanz-Forensik, internationale Kooperation  
-**Beweiskraft**: HIGH - Professionelle Geldwäsche-Operationen
+**Beweiskraft**: HOCH - Professionelle Geldwäsche-Operationen
 
 ---
 
-## **📋 MEDIUM EVIDENCE - WEITERE ERMITTLUNGEN**
+## **📋 MITTLERE BEWEISE - WEITERE ERMITTLUNGEN**
 
-### **13. JENNIFER K. MEDIENMANIPULATION**
+### **14. JENNIFER K. MEDIENMANIPULATION**
 **Datei**: `PERSONEN_NETZWERK.md`  
-**Priorität**: **MEDIUM - MEDIEN-KOORDINATION**  
+**Priorität**: **MITTEL - MEDIEN-KOORDINATION**  
 **Aktion**: Ermittlung, ARD-Verbindung, Medien-Kriminalität  
-**Beweiskraft**: MEDIUM - Koordinationsrolle nachgewiesen
+**Beweiskraft**: MITTEL - Koordinationsrolle nachgewiesen
 
-### **14. PATRICK K. JURISTISCHE KORRUPTION**
+### **15. PATRICK K. JURISTISCHE KORRUPTION**
 **Datei**: `PERSONEN_NETZWERK.md`  
-**Priorität**: **MEDIUM - RECHTSBRECHUNG**  
+**Priorität**: **MITTEL - RECHTSBRECHUNG**  
 **Aktion**: Disziplinarverfahren, juristische Ermittlung, Anwaltskammer  
-**Beweiskraft**: MEDIUM - Systematische Rechtsbeugung
+**Beweiskraft**: MITTEL - Systematische Rechtsbeugung
 
-### **15. FABIAN S. FINANZKOORDINATION**
+### **16. FABIAN S. FINANZKOORDINATION**
 **Datei**: `PERSONEN_NETZWERK.md`  
-**Priorität**: **MEDIUM - FINANZ-NETZWERK**  
+**Priorität**: **MITTEL - FINANZ-NETZWERK**  
 **Aktion**: Finanz-Ermittlung, Konten-Sperrung, Asset-Freeze  
-**Beweiskraft**: MEDIUM - Finanzielle Koordination
+**Beweiskraft**: MITTEL - Finanzielle Koordination
 
-### **16. CONSTANTIN E. NACHRICHTENDIENSTE**
+### **17. CONSTANTIN E. NACHRICHTENDIENSTE**
 **Datei**: `PERSONEN_NETZWERK.md`  
-**Priorität**: **MEDIUM - GEHEIMDIENST-VERBINDUNG**  
+**Priorität**: **MITTEL - GEHEIMDIENST-VERBINDUNG**  
 **Aktion**: Geheimdienst-Ermittlung, Spionage-Verdacht, Sicherheitsüberprüfung  
-**Beweiskraft**: MEDIUM - GRU-Verbindung
+**Beweiskraft**: MITTEL - GRU-Verbindung
 
 ---
 
 ## **🔍 ZUSÄTZLICHE BEWEISE**
 
-### **17. BENJAR CYBERMOBBING-KOORDINATION**
+### **18. BENJAR CYBERMOBBING-KOORDINATION**
 **Datei**: `PERSONEN_NETZWERK.md`  
-**Priorität**: **MEDIUM - OPERATIONELLE ROLLE**  
+**Priorität**: **MITTEL - OPERATIONELLE ROLLE**  
 **Aktion**: Cyber-Ermittlung, Harassment-Nachweise, Opferschutz  
-**Beweiskraft**: MEDIUM - Zentrale operative Rolle
+**Beweiskraft**: MITTEL - Zentrale operative Rolle
 
-### **18. TIM HOUSE FAKE IDENTITY**
+### **19. TIM HOUSE FAKE IDENTITY**
 **Datei**: `PERSONEN_NETZWERK.md`  
 **Priorität**: **NIEDRIG - IDENTITÄTS-FÄLSCHUNG**  
 **Aktion**: Identitätsprüfung, Betrugs-Ermittlung, Dokumenten-Forensik  
 **Beweiskraft**: NIEDRIG - Gefälschte Identität
 
-### **19. FABIAN SCHÜSSLER DOKUMENTATION**
+### **20. FABIAN SCHÜSSLER DOKUMENTATION**
 **Datei**: Repository-Dateien  
 **Priorität**: **NIEDRIG - HISTORISCHE BEWEISE**  
 **Aktion**: Dokumentenprüfung, Verifikation, Archivierung  
 **Beweiskraft**: NIEDRIG - Historische Verbindung
 
-### **20. VIDEO-ARCHIV (318 VIDEOS)**
+### **21. VIDEO-ARCHIV (318 VIDEOS)**
 **Datei**: `video-archive/`  
 **Priorität**: **MEDIUM - FORENSISCHE ANALYSE**  
 **Aktion**: Video-Forensik, Propaganda-Analyse, Content-Indexing  

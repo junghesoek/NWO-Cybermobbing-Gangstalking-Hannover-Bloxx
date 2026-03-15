@@ -35,7 +35,7 @@ class UrgentMrBloxxDownloader:
             pass
     
     def download_specific_videos(self):
-        **Download spezifischer kritischer Videos**
+        """Download spezifischer kritischer Videos"""
         self.safe_log("STARTING URGENT MR.BLOXX DOWNLOAD")
         
         # Kritische Suchbegriffe für Mr.Bloxx/GRU-Verbindungen
@@ -115,7 +115,7 @@ class UrgentMrBloxxDownloader:
             time.sleep(10)
     
     def download_channel_direct(self):
-        **Direkter Download des gesamten Channels**
+        """Direkter Download des gesamten Channels"""
         self.safe_log("STARTING DIRECT CHANNEL DOWNLOAD")
         
         channel_url = "https://www.youtube.com/@PUSHITHTOWN/videos"

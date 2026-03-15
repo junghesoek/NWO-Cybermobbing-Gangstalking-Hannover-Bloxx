@@ -11,3 +11,30 @@
 [CONSPIRACY] 2026-03-14 23:34:40 - DOWNLOADING REAL PERSONS SEARCH 4/56: "influencer" "Kuchen TV" "conspiracy"
 [CONSPIRACY] 2026-03-14 23:34:40 - EXECUTING REAL PERSONS SEARCH: "influencer" "Kuchen TV" "conspiracy"
 [CONSPIRACY] 2026-03-14 23:34:43 - REAL PERSONS ERROR: "influencer" "Kuchen TV" "conspiracy" - CODE: 2
+[CONSPIRACY] 2026-03-14 23:34:59 - DOWNLOADING REAL PERSONS SEARCH 5/56: "real people" "fake influencers" "scandal"
+[CONSPIRACY] 2026-03-14 23:34:59 - EXECUTING REAL PERSONS SEARCH: "real people" "fake influencers" "scandal"
+[CONSPIRACY] 2026-03-14 23:35:07 - REAL PERSONS ERROR: "real people" "fake influencers" "scandal" - CODE: 2
+[CONSPIRACY] 2026-03-14 23:35:22 - DOWNLOADING REAL PERSONS SEARCH 6/56: "celebrity photos" "AI generated" "exposed"
+[CONSPIRACY] 2026-03-14 23:35:22 - EXECUTING REAL PERSONS SEARCH: "celebrity photos" "AI generated" "exposed"
+[CONSPIRACY] 2026-03-14 23:35:26 - REAL PERSONS ERROR: "celebrity photos" "AI generated" "exposed" - CODE: 2
+[CONSPIRACY] 2026-03-14 23:35:42 - DOWNLOADING REAL PERSONS SEARCH 7/56: "politician with" "Tom Rohrböck" "fake"
+[CONSPIRACY] 2026-03-14 23:35:42 - EXECUTING REAL PERSONS SEARCH: "politician with" "Tom Rohrböck" "fake"
+[CONSPIRACY] 2026-03-14 23:35:47 - REAL PERSONS ERROR: "politician with" "Tom Rohrböck" "fake" - CODE: 2
+[CONSPIRACY] 2026-03-14 23:36:02 - DOWNLOADING REAL PERSONS SEARCH 8/56: "real person" "Naomi Seibt" "computer generated"
+[CONSPIRACY] 2026-03-14 23:36:02 - EXECUTING REAL PERSONS SEARCH: "real person" "Naomi Seibt" "computer generated"
+[CONSPIRACY] 2026-03-14 23:36:09 - REAL PERSONS ERROR: "real person" "Naomi Seibt" "computer generated" - CODE: 2
+[CONSPIRACY] 2026-03-14 23:36:24 - DOWNLOADING REAL PERSONS SEARCH 9/56: "celebrity" "Erik Ahrens" "deepfake"
+[CONSPIRACY] 2026-03-14 23:36:24 - EXECUTING REAL PERSONS SEARCH: "celebrity" "Erik Ahrens" "deepfake"
+[CONSPIRACY] 2026-03-14 23:36:50 - REAL PERSONS ERROR: "celebrity" "Erik Ahrens" "deepfake" - CODE: 2
+[CONSPIRACY] 2026-03-14 23:37:06 - DOWNLOADING REAL PERSONS SEARCH 10/56: "influencer" "Kuchen TV" "fake platform"
+[CONSPIRACY] 2026-03-14 23:37:06 - EXECUTING REAL PERSONS SEARCH: "influencer" "Kuchen TV" "fake platform"
+[CONSPIRACY] 2026-03-14 23:37:35 - REAL PERSONS ERROR: "influencer" "Kuchen TV" "fake platform" - CODE: 2
+[CONSPIRACY] 2026-03-14 23:37:50 - DOWNLOADING REAL PERSONS SEARCH 11/56: "real person" "AI influencer" "conspiracy"
+[CONSPIRACY] 2026-03-14 23:37:50 - EXECUTING REAL PERSONS SEARCH: "real person" "AI influencer" "conspiracy"
+[CONSPIRACY] 2026-03-14 23:38:01 - REAL PERSONS ERROR: "real person" "AI influencer" "conspiracy" - CODE: 2
+[CONSPIRACY] 2026-03-14 23:38:16 - DOWNLOADING REAL PERSONS SEARCH 12/56: "celebrity" "fake persona" "scandal"
+[CONSPIRACY] 2026-03-14 23:38:16 - EXECUTING REAL PERSONS SEARCH: "celebrity" "fake persona" "scandal"
+[CONSPIRACY] 2026-03-14 23:38:18 - REAL PERSONS ERROR: "celebrity" "fake persona" "scandal" - CODE: 2
+[CONSPIRACY] 2026-03-14 23:38:33 - DOWNLOADING REAL PERSONS SEARCH 13/56: "politician" "generated influencer" "evidence"
+[CONSPIRACY] 2026-03-14 23:38:33 - EXECUTING REAL PERSONS SEARCH: "politician" "generated influencer" "evidence"
+[CONSPIRACY] 2026-03-14 23:38:35 - REAL PERSONS ERROR: "politician" "generated influencer" "evidence" - CODE: 2

@@ -83,3 +83,9 @@
 [CRISIS] 2026-03-14 23:38:29 - DOWNLOADING HÖCKER SEARCH 28/41: "Höcker" "propaganda financing"
 [CRISIS] 2026-03-14 23:38:29 - EXECUTING HÖCKER SEARCH: "Höcker" "propaganda financing"
 [CRISIS] 2026-03-14 23:38:31 - HÖCKER ERROR: "Höcker" "propaganda financing" - CODE: 2
+[CRISIS] 2026-03-14 23:38:43 - DOWNLOADING HÖCKER SEARCH 29/41: "Rechtsanwalt Höcker" "AfD scandal"
+[CRISIS] 2026-03-14 23:38:43 - EXECUTING HÖCKER SEARCH: "Rechtsanwalt Höcker" "AfD scandal"
+[CRISIS] 2026-03-14 23:38:45 - HÖCKER ERROR: "Rechtsanwalt Höcker" "AfD scandal" - CODE: 2
+[CRISIS] 2026-03-14 23:38:57 - DOWNLOADING HÖCKER SEARCH 30/41: "Höcker" "GRU operation"
+[CRISIS] 2026-03-14 23:38:57 - EXECUTING HÖCKER SEARCH: "Höcker" "GRU operation"
+[CRISIS] 2026-03-14 23:39:00 - HÖCKER ERROR: "Höcker" "GRU operation" - CODE: 2

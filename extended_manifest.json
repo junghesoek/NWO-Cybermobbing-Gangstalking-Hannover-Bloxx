@@ -1,0 +1,43 @@
+{
+  "mission": "EXTENDED_GRU_TERROR_NETWORK_BEWEISSICHERUNG",
+  "timestamp": "2026-03-14T23:38:24.379791",
+  "priority": "ABSOLUTE_CRITICAL_GLOBAL_SECURITY",
+  "threat_level": "INTERNATIONAL_TERRORISM_EMERGENCY",
+  "terror_network": {
+    "primary_operatives": [
+      "J. Fedder",
+      "J. Kornau",
+      "Martha Root",
+      "Christian Fuchs"
+    ],
+    "supporting_network": [
+      "Multiple operatives",
+      "Technical staff",
+      "Financial supporters"
+    ],
+    "gru_connection": "Unit 29155 - Moscow",
+    "international_scope": "Global operations"
+  },
+  "evidence_statistics": {
+    "root_fuchs_videos": 0,
+    "extended_network_videos": 0,
+    "total_videos": 0,
+    "mission_status": "FAILED"
+  },
+  "evidence_types": [
+    "GRU_Terrorism_Propaganda",
+    "Political_Infiltration_Evidence",
+    "Cyber_Terrorism_Infrastructure",
+    "Technical_Signatures",
+    "Financial_Crime_Evidence",
+    "International_Security_Threat"
+  ],
+  "legal_classification": [
+    "Hochverrat_mit_Besonderer_Schwere",
+    "Internationale_Terrorismus",
+    "Geheimdiensthilfe",
+    "Kriegsführung_gegen_die_Bundesrepublik",
+    "Computersabotage_mit_Terrorhintergrund"
+  ],
+  "international_urgency": "IMMEDIATE_GLOBAL_SECURITY_ALERT"
+}

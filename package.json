@@ -1,0 +1,1 @@
+{"name":"pushit-research","version":"1.0.0","description":"Research project for PUSH IT H-TOWN YouTube channel","main":"scrape-videos.js","scripts":{"scrape":"node scrape-videos.js"},"dependencies":{"puppeteer":"^21.0.0"}}
